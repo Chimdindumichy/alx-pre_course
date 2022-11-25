@@ -1,1 +1,2 @@
-my second README.md
+my first README.md 
+getting started 
